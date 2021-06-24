@@ -1,0 +1,11 @@
+table {
+    width: 100%;
+}
+
+div{
+    margin-top: 40px;
+}
+
+th, td { 
+    text-align: center !important;
+  }
